@@ -1,4 +1,4 @@
-This is a forked project with attempt for modification, below are the README by the original author Lxbinary
+This is a forked project with attempt for modification, below is the README by the original author Lxbinary
 # MT5_to_Python
 
 the repository show 2 ways to transfer data from mt5 to python.
